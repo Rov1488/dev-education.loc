@@ -1,5 +1,5 @@
 <?php
-include_once __DIR__. '/../../config/init.php';
+//include_once __DIR__. '/../../config/init.php';
 require __DIR__. '/../../config/config_db.php';
 require __DIR__. '/../../libs/db_functions.php';
 session_start();
